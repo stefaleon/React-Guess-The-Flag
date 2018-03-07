@@ -16,5 +16,5 @@
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
   },
-  "homepage": "https://github.com/stefaleon/deploy-guess-the-flag"
+  "homepage": "https://stefaleon.github.io/React-Guess-The-Flag/"
 }

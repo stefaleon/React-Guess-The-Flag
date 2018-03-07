@@ -2,12 +2,10 @@
 
 ## Step 1: Add homepage to package.json
 
-The step below is important!
-If you skip it, your app will not deploy correctly.
 
-Open your package.json and add a homepage field for your project:
+Open  package.json and add a homepage field for the project:
 ```
-  "homepage": "https://github.com/stefaleon/deploy-guess-the-flag",
+  "homepage": "https://stefaleon.github.io/React-Guess-The-Flag/",
 ```
 
 Create React App uses the homepage field to determine the root URL in the built HTML file.
